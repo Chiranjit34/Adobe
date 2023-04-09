@@ -1,0 +1,20 @@
+.filter-Container{
+	margin: 15px;
+	font-size: 20px;
+	display: flex;
+	justify-content: flex-end;
+	font-weight: 600;
+	color: rgb(75, 81, 76);
+}
+.selectContainer{
+	font-size: 20px;
+	margin: 5px;
+	border-radius: 5px;
+	outline-offset:unset;
+	background-color: rgb(36, 36, 36);
+	color: rgb(155 210 200);
+}
+option{
+	background-color: rgb(106, 106, 106);
+	color: rgb(119, 218, 200);
+}

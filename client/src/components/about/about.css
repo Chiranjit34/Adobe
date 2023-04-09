@@ -1,0 +1,13 @@
+.aboutConatiner{
+	max-width: 600px;
+	margin: auto;
+	margin-top: 200px;
+}
+
+.aboutConatiner h1, h2{
+	text-align: center;
+	color: rgb(68 80 69);
+}
+.aboutConatiner p{
+	text-align: justify;
+}
